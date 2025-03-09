@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Projects</title>
+</head>
+<body>
+    <h1>Submitted Projects</h1>
+    <ul>
+        {% for project in projects %}
+            <li>{{ project['name'] }} - {{ project['description'] }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

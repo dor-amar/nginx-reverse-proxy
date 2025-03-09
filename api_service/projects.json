@@ -1,0 +1,5 @@
+ [
+     {"name": "DevOps Monitoring", "description": "A monitoring stack with Prometheus and Grafana."},
+     {"name": "CI/CD Pipeline", "description": "Automated CI/CD pipeline for deployments."},
+     {"name": "Cloud Infrastructure", "description": "Infrastructure as Code with Terraform."}
+ ]
